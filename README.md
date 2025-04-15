@@ -65,8 +65,8 @@ We used the publicly available [State Farm Distracted Driver Detection dataset](
 
 ## 📄 Reports
 
-- [📓 Final Report (DOCX)](/Final_Report_distracted_driver_detection.docx)
-- [📊 Project Presentation (PPTX)](/DRIVER%20ACTION%20DETECTION.pptx)
+- [📓 Final Report (DOCX)](Final_Report_distracted_driver_detection.docx)
+- [📊 Project Presentation (PPTX)](DRIVER%20ACTION%20DETECTION.pptx)
 
 ---
 
